@@ -6,7 +6,9 @@ This repository includes code for Xu et al. 2017
 **VCFtoTree can be accessed at https://github.com/duoduoo/VCFtoTree**   # A user friendly tool using 1000 genomes phase 3 data to build phylogeny.
 
 **Ariadne_public.R**   # R code for plotting Figure 3A
+
 **Figure3C.r**   # R code for plotting pairwise distance between haplogroups, Neanderthal, Denisovan and Chimpanzee.
+
 **EX_0106.R**   # R code for plotting Figure 4C
 
 
