@@ -10,6 +10,7 @@ This repository includes code for Xu et al. 2017
 **Figure3C.R**   # R code for plotting pairwise distance between haplogroups, Neanderthal, Denisovan and Chimpanzee.
 
 **EX_0106.R**   # R code for plotting Figure 4C
+
 **Simulation.R** # R code for plotting Figure 4C and Supplementary Figure 5
 
 ****
