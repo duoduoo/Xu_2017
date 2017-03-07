@@ -1,3 +1,5 @@
+## Data file can be download at https://drive.google.com/drive/folders/0B7vGA-5m4MLGMEZEeXJ6M1NNVjg?usp=sharing
+## load data "IntrogressionAnalysisMUC7_February2017.RData"
 
 names(sumstat.withmuc7.class)
 names(sumstat.withmuc7.class)[21] <- 'Class'
