@@ -11,8 +11,7 @@ This repository includes code for Xu et al. 2017
 
 **EX_0106.R**   # R code for plotting Figure 4C
 
-#### Simulations:
-**
+****
 
 
 
