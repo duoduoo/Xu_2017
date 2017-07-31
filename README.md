@@ -29,10 +29,10 @@ https://drive.google.com/drive/folders/0B7vGA-5m4MLGdEVfZ0I2Z3AtQU0?usp=sharing
 #### Supplementary tables:
 **Supplementary Table 1. Human sample info.xlsx**  # Human sample population information for each individual, haplogroups and distribution across the world, and PCR copy number genotyping results etc.
 
-**Supplementary Table 2. Simulation data.xlsx**  # The genetic variations observed in 10,000 simulated regions along the chromosome 4 and for MUC7.
+**Supplementary Table 2. GWAS.xlsx**   # Accuracy for estimated haplogroup clustering and frequency of 5 copy allele in STAMPEED.
 
-**Supplementary Table 3. GWAS.xlsx**   # Accuracy for estimated haplogroup clustering and frequency of 5 copy allele in STAMPEED.
+**Supplementary Table 3. microbiomeMUC7assoc.OTU.xlsx**   # Significant variants associated with microbiome
 
-**Supplementary Table 4. microbiomeMUC7assoc.OTU.xlsx**   # Significant variants associated with microbiome
+**Supplementary Table 4. Simulation data.xlsx**  # The genetic variations observed in 10,000 simulated regions along the chromosome 4 and for MUC7.
 
-**Supplementary Table 5. Simulation.xlsx**   # Parameter values defined in simulations.
+**Supplementary Table 5. Simulation_priors.xlsx**   # Parameter values defined in simulations.
